@@ -1,0 +1,65 @@
+*{
+font-family: "Rockwell Extra Bold";
+}
+
+header{
+	font-size: 30px;
+}
+body{
+background-color:#15171E;
+}
+
+img{
+width:200px;
+height:200px;
+border-radius:50%;
+}
+
+h3 {
+color:#D6E5E3;
+}
+
+p{
+	color:#D6E5E3;
+}
+
+h1 {
+	color:#D6E5E3;
+}
+
+h2 {
+    color:#D6E5E3;
+}
+
+q {
+	color:#D6E5E3;
+}
+
+nav p a {
+	text-decoration: none;
+	color: #D6E5E3;
+	padding-right:10px;
+	margin:5px;
+	border:#ddd 0.5px solid;
+}
+
+nav p a:hover { border: black 0.5px solid; 
+}
+
+nav {
+	position: fixed;
+	top: 0;
+	width: 100%;
+	background-color:#15171E; 
+}
+
+header {
+	margin-top: 50px;
+}
+
+h5 {
+	color:#D6E5E3 ;
+}
+h4 {
+   color:#D6E5E3 ;
+}
